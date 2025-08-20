@@ -43,13 +43,3 @@ This project automates the classification of applicants into appropriate sub-sch
 
 ---
 
-## 📌 How to Use
-
-1. Clone the repository  
-2. Upload your dataset to IBM Cloud Object Storage  
-3. Open the notebook in Watson Studio  
-4. Train and evaluate the model  
-5. Deploy the model as REST API  
-6. Use the endpoint for real-time predictions
-
----
